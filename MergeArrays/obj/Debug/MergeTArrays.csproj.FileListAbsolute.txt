@@ -1,0 +1,6 @@
+C:\Users\Brian\source\repos\MergeTArrays\MergeTArrays\bin\Debug\MergeTArrays.exe.config
+C:\Users\Brian\source\repos\MergeTArrays\MergeTArrays\bin\Debug\MergeTArrays.exe
+C:\Users\Brian\source\repos\MergeTArrays\MergeTArrays\bin\Debug\MergeTArrays.pdb
+C:\Users\Brian\source\repos\MergeTArrays\MergeTArrays\obj\Debug\MergeTArrays.csproj.CoreCompileInputs.cache
+C:\Users\Brian\source\repos\MergeTArrays\MergeTArrays\obj\Debug\MergeTArrays.exe
+C:\Users\Brian\source\repos\MergeTArrays\MergeTArrays\obj\Debug\MergeTArrays.pdb

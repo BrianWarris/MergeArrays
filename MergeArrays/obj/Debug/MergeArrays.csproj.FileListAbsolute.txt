@@ -1,0 +1,6 @@
+C:\Users\Brian\source\repos\MergeArrays\MergeArrays\bin\Debug\MergeArrays.exe.config
+C:\Users\Brian\source\repos\MergeArrays\MergeArrays\bin\Debug\MergeArrays.exe
+C:\Users\Brian\source\repos\MergeArrays\MergeArrays\bin\Debug\MergeArrays.pdb
+C:\Users\Brian\source\repos\MergeArrays\MergeArrays\obj\Debug\MergeArrays.csproj.CoreCompileInputs.cache
+C:\Users\Brian\source\repos\MergeArrays\MergeArrays\obj\Debug\MergeArrays.exe
+C:\Users\Brian\source\repos\MergeArrays\MergeArrays\obj\Debug\MergeArrays.pdb
